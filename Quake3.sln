@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quake3.BotLib", "Quake3.BotLib\Quake3.BotLib.csproj", "{472BC49E-D2F5-4B90-93DD-B25BCFB475CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quake3.Test", "Quake3.Test\Quake3.Test.csproj", "{C5330849-32B5-4CFD-9C30-766B7F3C2D0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B2BE5161-CE87-403C-908E-340C6CA5B984}"
+	ProjectSection(SolutionItems) = preProject
+		Quake3.vsmdi = Quake3.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Quake3.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472BC49E-D2F5-4B90-93DD-B25BCFB475CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472BC49E-D2F5-4B90-93DD-B25BCFB475CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472BC49E-D2F5-4B90-93DD-B25BCFB475CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472BC49E-D2F5-4B90-93DD-B25BCFB475CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5330849-32B5-4CFD-9C30-766B7F3C2D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5330849-32B5-4CFD-9C30-766B7F3C2D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5330849-32B5-4CFD-9C30-766B7F3C2D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5330849-32B5-4CFD-9C30-766B7F3C2D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

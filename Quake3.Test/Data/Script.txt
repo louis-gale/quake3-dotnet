@@ -1,0 +1,229 @@
+{
+"music" "music\fla22k_03.wav"
+"classname" "worldspawn"
+"message" "House of Pain"
+}
+{
+"origin" "-1156 -2076 20"
+"target" "t2"
+"random" "3"
+"wait" "26"
+"spawnflags" "1"
+"classname" "func_timer"
+}
+{
+"origin" "-1200 -2080 20"
+"targetname" "t2"
+"noise" "sound/world/1shot_greg_03.wav"
+"spawnflags" "4"
+"classname" "target_speaker"
+}
+{
+"classname" "target_speaker"
+"spawnflags" "1"
+"noise" "sound/world/fire1.wav"
+"origin" "-1548 -944 128"
+}
+{
+"origin" "-988 -1635 -110"
+"angle" "225"
+"model" "models/mapobjects/skull/skull_tilt1.md3"
+"classname" "misc_model"
+}
+{
+"origin" "-901 -1624 -112"
+"angle" "180"
+"model" "models/mapobjects/skull/skull.md3"
+"classname" "misc_model"
+}
+{
+"classname" "light"
+"light" "30"
+"_color" "1.000000 0.937255 0.686275"
+"origin" "-1936 -2816 120"
+}
+{
+"classname" "misc_model"
+"model" "models/mapobjects/timlamp/timlamp.md3"
+"origin" "-2016 -2816 120"
+}
+{
+"origin" "-1100 -2372 44"
+"targetname" "t1"
+"classname" "target_position"
+}
+{
+"origin" "-976 -2488 80"
+"angle" "135"
+"target" "t1"
+"classname" "info_player_intermission"
+}
+{
+"classname" "light"
+"light" "25"
+"_color" "1.000000 0.792157 0.792157"
+"origin" "-1792 -2688 424"
+}
+{
+"classname" "light"
+"light" "30"
+"origin" "-2144 -1320 40"
+}
+{
+"classname" "ammo_bullets"
+"origin" "-1480 -824 16"
+}
+{
+"origin" "-1192 -1312 136"
+"light" "10"
+"classname" "light"
+}
+{
+"classname" "item_armor_shard"
+"origin" "-1376 -1176 16"
+}
+{
+"classname" "ammo_cells"
+"origin" "-1000 -2496 16"
+}
+{
+"classname" "item_health"
+"origin" "-1632 -1896 16"
+}
+{
+"classname" "ammo_shells"
+"origin" "-1156 -1944 -88"
+}
+{
+"classname" "item_health_large"
+"origin" "-1024 -1312 16"
+}
+{
+"classname" "ammo_shells"
+"origin" "-2136 -984 16"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-2136 -936 16"
+}
+{
+"classname" "item_armor_combat"
+"origin" "-952 -2496 16"
+}
+{
+"classname" "item_armor_shard"
+"origin" "-2216 -2032 16"
+}
+{
+"classname" "ammo_bullets"
+"origin" "-2208 -2888 16"
+}
+{
+"classname" "item_health"
+"origin" "-2144 -1244 -98"
+}
+{
+"classname" "light"
+"light" "20"
+"origin" "-1496 -1216 -24"
+}
+{
+"origin" "-1792 -1592 16"
+"classname" "weapon_shotgun"
+}
+{
+"origin" "-952 -1848 -56"
+"classname" "weapon_plasmagun"
+"spawnflags" "1"
+}
+{
+"origin" "-1920 -960 16"
+"classname" "item_haste"
+}
+{
+"origin" "-1524 -1199 -89"
+"classname" "item_armor_body"
+}
+{
+"origin" "-1228 -896 140"
+"_color" "0.101820 0.063337 0.015798"
+"light" "125"
+"spawnflags" "0"
+"classname" "light"
+}
+{
+"origin" "-2086 -2578 24"
+"spawnflags" "4"
+"angle" "315"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-2188 -2688 100"
+"light" "10"
+"classname" "light"
+}
+{
+"origin" "-2045 -3137 93"
+"_color" "1.000000 0.501961 0.250980"
+"light" "10"
+"classname" "light"
+}
+{
+"origin" "-1922 -3136 42"
+"classname" "weapon_rocketlauncher"
+}
+{
+"_color" "1.000000 1.000000 0.501961"
+"origin" "-1828 -3272 300"
+"light" "400"
+"spawnflags" "1"
+"classname" "light"
+}
+{
+"_color" "1.000000 0.662745 0.501961"
+"classname" "light"
+"light" "10"
+"origin" "-1688 -2368 252"
+}
+{
+"model" "*1"
+"angle" "360"
+"classname" "func_door"
+"team" "stephanie"
+}
+{
+"model" "*2"
+"angle" "180"
+"classname" "func_door"
+"team" "stephanie"
+}
+{
+"_color" "1.000000 0.662745 0.501961"
+"origin" "-1568 -2372 252"
+"light" "10"
+"classname" "light"
+}
+{
+"_color" "1.000000 0.662745 0.501961"
+"origin" "-1568 -2372 252"
+"light" "10"
+"classname" "light"
+}
+{
+"_color" "1.000000 0.756863 0.250980"
+"classname" "light"
+"light" "10"
+"origin" "-1924 -2316 252"
+}
+{
+"_color" "1.000000 0.756863 0.250980"
+"origin" "-1928 -2424 252"
+"light" "10"
+"classname" "light"
+}
+{
+"origin" "-1780 -2536 225"
+"angle" "270"
+"model" "models/mapobjects/storch/storch.md3"
+"classname" "misc_model"
+}
